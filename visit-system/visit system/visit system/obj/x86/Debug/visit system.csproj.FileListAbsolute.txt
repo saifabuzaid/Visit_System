@@ -1,0 +1,29 @@
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\bin\Debug\visit system.exe
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\bin\Debug\visit system.pdb
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit_system.Form1.resources
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit_system.Properties.Resources.resources
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit system.csproj.GenerateResource.Cache
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit system.exe
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit system.pdb
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\bin\Debug\visiting.mdf
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\bin\Debug\visiting_log.ldf
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\bin\Debug\visit system.exe.config
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit_system.DR_table.resources
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit_system.Q_DR.resources
+c:\users\ahmad al kisswany\documents\visual studio 2010\Projects\visit system\visit system\obj\x86\Debug\visit_system.About_DB.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\bin\Debug\visit system.exe.config
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit system.exe
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit system.pdb
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\bin\Debug\visiting.mdf
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\bin\Debug\visiting_log.ldf
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\bin\Debug\visit system.exe
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\bin\Debug\visit system.pdb
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.About_DB.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.Q_DR.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.DR_table.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.Form1.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.Properties.Resources.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit system.csproj.GenerateResource.Cache
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.Pa_table.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit_system.Pa_Q.resources
+C:\Users\saif abuzaid\Downloads\visit-system\visit system\visit system\obj\x86\Debug\visit system.csprojResolveAssemblyReference.cache

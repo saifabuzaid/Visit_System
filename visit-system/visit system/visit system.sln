@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "visit system", "visit system\visit system.csproj", "{06A4C06A-A8A4-4F11-A5DE-96F6A3274CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A4C06A-A8A4-4F11-A5DE-96F6A3274CF7}.Debug|x86.ActiveCfg = Debug|x86
+		{06A4C06A-A8A4-4F11-A5DE-96F6A3274CF7}.Debug|x86.Build.0 = Debug|x86
+		{06A4C06A-A8A4-4F11-A5DE-96F6A3274CF7}.Release|x86.ActiveCfg = Release|x86
+		{06A4C06A-A8A4-4F11-A5DE-96F6A3274CF7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

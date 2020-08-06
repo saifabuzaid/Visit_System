@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="visiting" Class="vistDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\visiting.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="visit_system.Properties.Settings" SettingsPropertyName="visitingConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Doctor" Member="Doctors">
+    <Type Name="Doctor">
+      <Column Name="DoctorNo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DoctorName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="salary" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="Doctor_visite" Member="visites" ThisKey="DoctorNo" OtherKey="DoctorNo" Type="visite" />
+    </Type>
+  </Table>
+  <Table Name="dbo.patient" Member="patients">
+    <Type Name="patient">
+      <Column Name="PatientNo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="patientName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="VarChar(1) NOT NULL" CanBeNull="false" />
+      <Column Name="DateBrth" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Association Name="patient_visite" Member="visites" ThisKey="PatientNo" OtherKey="patientno" Type="visite" />
+    </Type>
+  </Table>
+  <Table Name="dbo.visite" Member="visites">
+    <Type Name="visite">
+      <Column Name="DoctorNo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="patientno" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Doctor_visite" Member="Doctor" ThisKey="DoctorNo" OtherKey="DoctorNo" Type="Doctor" IsForeignKey="true" />
+      <Association Name="patient_visite" Member="patient" ThisKey="patientno" OtherKey="PatientNo" Type="patient" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
